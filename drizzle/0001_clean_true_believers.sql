@@ -1,0 +1,1 @@
+ALTER TABLE `items` ADD `end_date` text;
